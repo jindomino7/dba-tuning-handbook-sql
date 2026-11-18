@@ -19,7 +19,7 @@
 
 ## 사용 방법
 
-1. 이 저장소를 내려받습니다. (`Code` → `Download ZIP` 또는 `Releases`의 zip)
+1. 이 저장소를 내려받습니다. (handbook_script.sql 또는 handbook_script.zip)
 2. MySQL에 접속합니다.
 3. 사례 번호에 맞는 스크립트를 실행합니다.
    MySQL Workbench, DBeaver 등 GUI 도구에서는 파일을 열어 전체를 실행하면 됩니다.
