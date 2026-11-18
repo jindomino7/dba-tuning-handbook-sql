@@ -1,0 +1,43 @@
+[현업DBA의 실무사례 튜닝 핸드북] 실습용 SQL 스크립트 사용 허가서
+Practice SQL Scripts License
+
+Copyright (c) 2026 전진용. All rights reserved.
+
+이 저장소의 SQL 스크립트와 문서(이하 "자료")는 전자책 [현업DBA의 실무사례 튜닝 핸드북]의 부록 자료입니다.
+자료를 내려받거나 사용하면 아래 조건에 동의한 것으로 봅니다.
+
+1. 허용되는 사용
+   - 개인의 학습, 실습, 연구 목적으로 자료를 내려받아 실행할 수 있습니다.
+   - 학습 목적으로 자료를 수정해서 실행할 수 있습니다.
+   - 본인의 테스트 환경에서 자료를 실행해 얻은 실행계획 결과를 학습이나 업무 참고용으로 사용할 수 있습니다.
+
+2. 금지되는 사용
+   - 자료의 전부 또는 일부(수정본 포함)를 재배포, 공유, 전송, 게시하는 행위
+     (다른 저장소, 블로그, 카페, 파일 공유 서비스, 메신저 단체방 등 포함)
+   - 자료를 판매하거나 대가를 받고 제공하는 행위
+   - 자료를 강의, 교육 과정, 교재, 도서, 영상 등 다른 상업적 콘텐츠에 사용하는 행위
+   - 이 자료에 포함된 저작권 및 사용 허가 문구를 삭제하거나 변경하는 행위
+
+3. 저작권
+   - 자료의 저작권은 저자에게 있습니다.
+   - 이 허가서는 사용권을 허락할 뿐 저작권을 이전하지 않습니다.
+   - 위 조건에 대한 별도의 허락이 필요한 경우 저자에게 문의해 주세요.
+
+4. 데이터
+   - 자료에 포함된 테이블명, 컬럼명, 데이터는 모두 학습을 위해 만든 가상의 값입니다.
+   - 실제 기업이나 서비스의 데이터와 관련이 없습니다.
+
+5. 면책
+   - 자료는 "있는 그대로" 제공되며, 특정 목적에의 적합성, 정확성, 오류 없음에 대해
+     명시적이든 묵시적이든 어떠한 보증도 하지 않습니다.
+   - 자료를 실행하여 발생한 데이터 손실, 시스템 장애, 비용 등 모든 손해에 대해
+     저자는 책임지지 않습니다. 운영 환경이 아닌 별도의 테스트 환경에서 실행하세요.
+   - 자료의 실행 결과는 DBMS 버전, 설정, 하드웨어에 따라 달라질 수 있습니다.
+
+6. 조건 위반 시
+   - 위 조건을 위반하면 사용 허가는 즉시 종료되며, 저자는 자료의 삭제를 요구할 수 있습니다.
+
+English summary (for reference; the Korean text above governs):
+These scripts are provided to readers of the book for personal learning and practice only.
+Redistribution, resale, and use in other commercial content (courses, books, videos) are not permitted.
+The scripts are provided "AS IS", without warranty of any kind. Run them only in a test environment.
